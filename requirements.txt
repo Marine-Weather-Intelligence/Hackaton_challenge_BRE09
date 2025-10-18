@@ -1,0 +1,8 @@
+# Basic Python
+pandas==2.2.3
+numpy==1.26.4
+
+# Data Visu
+plotly==5.24.1
+
+# Feel free to add your packages
