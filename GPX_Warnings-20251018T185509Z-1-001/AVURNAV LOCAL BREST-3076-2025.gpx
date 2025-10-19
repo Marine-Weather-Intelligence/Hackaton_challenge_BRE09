@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3076/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/cf52fa22-994b-4406-b169-f5294edc2223"/>
+    <bounds minlat="47.27638333333333" minlon="-3.644766666666664" maxlat="47.399966666666664" maxlon="-3.49851666666663"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3076/25 #1/1</name>
+    <desc>Levé scientifique
+ du 26 aoû 25 au 31 oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/cf52fa22-994b-4406-b169-f5294edc2223"/>
+    <trkseg>
+      <trkpt lat="47.399966666666664" lon="-3.644766666666664"/>
+      <trkpt lat="47.36708333333332" lon="-3.5510116666666933"/>
+      <trkpt lat="47.345683333333334" lon="-3.541516666666623"/>
+      <trkpt lat="47.33551666666665" lon="-3.507700000000039"/>
+      <trkpt lat="47.30276666666664" lon="-3.49851666666663"/>
+      <trkpt lat="47.30338333333334" lon="-3.5097666666666805"/>
+      <trkpt lat="47.27661666666666" lon="-3.525383333333332"/>
+      <trkpt lat="47.27638333333333" lon="-3.5601166666666684"/>
+      <trkpt lat="47.399966666666664" lon="-3.644766666666664"/>
+      <trkpt lat="47.399966666666664" lon="-3.644766666666664"/>
+    </trkseg>
+  </trk>
+</gpx>

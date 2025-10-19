@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3269/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/6ce5b722-8767-4f85-b88f-4bc59ba4a7a7"/>
+    <bounds minlat="45.407333333333334" minlon="-2.7050000000000005" maxlat="47.079999999999984" maxlon="-1.630666666666667"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3269/25 #1/1</name>
+    <desc>Levé scientifique
+ du 18 oct 25 au 20 oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/6ce5b722-8767-4f85-b88f-4bc59ba4a7a7"/>
+    <trkseg>
+      <trkpt lat="46.01133333333334" lon="-2.7050000000000005"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3269/25 #1/1</name>
+    <desc>Levé scientifique
+ du 18 oct 25 au 20 oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/6ce5b722-8767-4f85-b88f-4bc59ba4a7a7"/>
+    <trkseg>
+      <trkpt lat="47.079999999999984" lon="-2.329966666666667"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3269/25 #1/1</name>
+    <desc>Levé scientifique
+ du 18 oct 25 au 20 oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/6ce5b722-8767-4f85-b88f-4bc59ba4a7a7"/>
+    <trkseg>
+      <trkpt lat="45.407333333333334" lon="-1.630666666666667"/>
+    </trkseg>
+  </trk>
+</gpx>

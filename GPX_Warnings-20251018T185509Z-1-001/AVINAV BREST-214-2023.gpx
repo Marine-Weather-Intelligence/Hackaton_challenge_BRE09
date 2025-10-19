@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 214/23</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/41543740-8cd9-4d6a-94f1-543921ff7cac"/>
+    <bounds minlat="44.41666666666667" minlon="-1.866666666666661" maxlat="44.41666666666667" maxlon="-1.866666666666661"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 214/23 #1/1</name>
+    <desc>Opérations spéciales</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/41543740-8cd9-4d6a-94f1-543921ff7cac"/>
+    <trkseg>
+      <trkpt lat="44.41666666666667" lon="-1.866666666666661"/>
+    </trkseg>
+  </trk>
+</gpx>

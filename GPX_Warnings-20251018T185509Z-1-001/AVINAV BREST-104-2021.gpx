@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 104/21</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/a46b2404-a552-4043-9b4a-c607f3437a35"/>
+    <bounds minlat="47.432500000000005" minlon="-2.9563333333333537" maxlat="47.432500000000005" maxlon="-2.9563333333333537"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 104/21 #1/1</name>
+    <desc>Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/a46b2404-a552-4043-9b4a-c607f3437a35"/>
+    <trkseg>
+      <trkpt lat="47.432500000000005" lon="-2.9563333333333537"/>
+    </trkseg>
+  </trk>
+</gpx>

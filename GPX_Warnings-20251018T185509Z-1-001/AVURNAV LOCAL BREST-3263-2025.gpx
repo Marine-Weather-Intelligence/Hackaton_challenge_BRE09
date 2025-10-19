@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3263/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers à la dérive
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/5b0413a3-d969-4a82-9f9f-e74104f34de0"/>
+    <bounds minlat="47.705000000000005" minlon="-3.621666666666667" maxlat="47.705000000000005" maxlon="-3.621666666666667"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3263/25 #1/1</name>
+    <desc>Objet à la dérive
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/5b0413a3-d969-4a82-9f9f-e74104f34de0"/>
+    <trkseg>
+      <trkpt lat="47.705000000000005" lon="-3.621666666666667"/>
+    </trkseg>
+  </trk>
+</gpx>

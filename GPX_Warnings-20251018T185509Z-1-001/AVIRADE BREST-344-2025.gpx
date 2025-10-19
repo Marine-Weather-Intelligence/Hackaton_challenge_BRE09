@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVIRADE BREST 344/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/fbd1effb-de9f-48ed-9672-e8f298990135"/>
+    <bounds minlat="48.29815000000001" minlon="-4.4146500000000435" maxlat="48.30570000000002" maxlon="-4.396416666666626"/>
+  </metadata>
+  <trk>
+    <name>AVIRADE BREST 344/25 #1/1</name>
+    <desc>Essais en mer
+ du 20 oct 25 au 24 oct 25
+ du 27 oct 25 au 31 oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/fbd1effb-de9f-48ed-9672-e8f298990135"/>
+    <trkseg>
+      <trkpt lat="48.30570000000002" lon="-4.413899999999998"/>
+      <trkpt lat="48.304816666666646" lon="-4.396416666666626"/>
+      <trkpt lat="48.29815000000001" lon="-4.39718333333337"/>
+      <trkpt lat="48.29903333333336" lon="-4.4146500000000435"/>
+      <trkpt lat="48.30570000000002" lon="-4.413899999999998"/>
+      <trkpt lat="48.30570000000002" lon="-4.413899999999998"/>
+    </trkseg>
+  </trk>
+</gpx>

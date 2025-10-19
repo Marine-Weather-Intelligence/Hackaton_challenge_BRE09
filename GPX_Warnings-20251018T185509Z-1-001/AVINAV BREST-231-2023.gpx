@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 231/23</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/97582596-91bb-4d4c-95d4-cca6d456dc56"/>
+    <bounds minlat="47.41809999999995" minlon="-2.939250000000006" maxlat="47.419916666666644" maxlon="-2.934066666666659"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 231/23 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/97582596-91bb-4d4c-95d4-cca6d456dc56"/>
+    <trkseg>
+      <trkpt lat="47.41809999999995" lon="-2.934066666666659"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 231/23 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/97582596-91bb-4d4c-95d4-cca6d456dc56"/>
+    <trkseg>
+      <trkpt lat="47.419916666666644" lon="-2.939250000000006"/>
+    </trkseg>
+  </trk>
+</gpx>

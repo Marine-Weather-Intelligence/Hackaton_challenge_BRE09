@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVIRADE BREST 335/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/2ffb15e6-93f9-4a2b-aa48-ec791b3a4fa7"/>
+    <bounds minlat="48.300966666666675" minlon="-4.413016666666642" maxlat="48.30209999999999" maxlon="-4.412833333333327"/>
+  </metadata>
+  <trk>
+    <name>AVIRADE BREST 335/25 #1/1</name>
+    <desc>Objet immergé
+ du 26 sep 25 au 03 nov 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/2ffb15e6-93f9-4a2b-aa48-ec791b3a4fa7"/>
+    <trkseg>
+      <trkpt lat="48.30209999999999" lon="-4.412833333333327"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVIRADE BREST 335/25 #1/1</name>
+    <desc>Objet immergé
+ du 26 sep 25 au 03 nov 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/2ffb15e6-93f9-4a2b-aa48-ec791b3a4fa7"/>
+    <trkseg>
+      <trkpt lat="48.300966666666675" lon="-4.413016666666642"/>
+    </trkseg>
+  </trk>
+</gpx>

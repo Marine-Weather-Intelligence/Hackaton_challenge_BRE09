@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVIRADE BREST 325/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/9f516906-fde7-453a-ad2b-8bfec3990420"/>
+    <bounds minlat="48.283740489764114" minlon="-4.410846428060909" maxlat="48.283740489764114" maxlon="-4.410846428060909"/>
+  </metadata>
+  <trk>
+    <name>AVIRADE BREST 325/25 #1/1</name>
+    <desc>Exercice de tir
+ du 020630 UTC oct 25 au 020930 UTC oct 25
+ du 070630 UTC oct 25 au 070930 UTC oct 25
+ du 091030 UTC oct 25 au 091330 UTC oct 25
+ du 160630 UTC oct 25 au 160930 UTC oct 25
+ du 230630 UTC oct 25 au 230930 UTC oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/9f516906-fde7-453a-ad2b-8bfec3990420"/>
+    <trkseg>
+      <trkpt lat="48.283740489764114" lon="-4.410846428060909"/>
+    </trkseg>
+  </trk>
+</gpx>

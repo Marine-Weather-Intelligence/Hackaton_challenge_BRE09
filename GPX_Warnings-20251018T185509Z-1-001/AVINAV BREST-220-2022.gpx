@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 220/22</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/5f583206-c2f1-461f-9ab3-56d02595a30b"/>
+    <bounds minlat="47.78316666666665" minlon="-4.292833333333334" maxlat="47.78316666666665" maxlon="-4.292833333333334"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 220/22 #1/1</name>
+    <desc>Epave dangereuse
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/5f583206-c2f1-461f-9ab3-56d02595a30b"/>
+    <trkseg>
+      <trkpt lat="47.78316666666665" lon="-4.292833333333334"/>
+    </trkseg>
+  </trk>
+</gpx>

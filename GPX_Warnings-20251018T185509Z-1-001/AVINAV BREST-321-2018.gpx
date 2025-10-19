@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 321/18</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/c8a3103c-656f-4a05-894a-84179925fca6"/>
+    <bounds minlat="48.29084999999997" minlon="-4.587849999999999" maxlat="48.29084999999997" maxlon="-4.587849999999999"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 321/18 #1/1</name>
+    <desc>Conduite sous-marine, changements
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/c8a3103c-656f-4a05-894a-84179925fca6"/>
+    <trkseg>
+      <trkpt lat="48.29084999999997" lon="-4.587849999999999"/>
+    </trkseg>
+  </trk>
+</gpx>

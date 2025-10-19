@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 324/20</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/b9c37208-2fcb-401a-88a5-d2dbfec279dc"/>
+    <bounds minlat="48.88666666666663" minlon="-3.123166666666677" maxlat="48.88666666666663" maxlon="-3.123166666666677"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 324/20 #1/1</name>
+    <desc>Dangers nouvellement découverts</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/b9c37208-2fcb-401a-88a5-d2dbfec279dc"/>
+    <trkseg>
+      <trkpt lat="48.88666666666663" lon="-3.123166666666677"/>
+    </trkseg>
+  </trk>
+</gpx>

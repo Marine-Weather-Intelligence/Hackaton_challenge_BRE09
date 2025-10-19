@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 60/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/78ad4540-8d7b-4e73-a0b9-a1bcfeeae6c5"/>
+    <bounds minlat="48.7888333333333" minlon="-2.870333333333367" maxlat="48.7888333333333" maxlon="-2.870333333333367"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 60/25 #1/1</name>
+    <desc>Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/78ad4540-8d7b-4e73-a0b9-a1bcfeeae6c5"/>
+    <trkseg>
+      <trkpt lat="48.7888333333333" lon="-2.870333333333367"/>
+    </trkseg>
+  </trk>
+</gpx>

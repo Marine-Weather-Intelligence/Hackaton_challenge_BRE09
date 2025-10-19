@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 179/20</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/154a395b-dd4f-4313-9475-9a451bb6c77f"/>
+    <bounds minlat="47.61483333333334" minlon="-5.721333333333341" maxlat="47.634500000000024" maxlon="-5.688333333333324"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 179/20 #1/1</name>
+    <desc>Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/154a395b-dd4f-4313-9475-9a451bb6c77f"/>
+    <trkseg>
+      <trkpt lat="47.634500000000024" lon="-5.721333333333341"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 179/20 #1/1</name>
+    <desc>Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/154a395b-dd4f-4313-9475-9a451bb6c77f"/>
+    <trkseg>
+      <trkpt lat="47.61483333333334" lon="-5.688333333333324"/>
+    </trkseg>
+  </trk>
+</gpx>

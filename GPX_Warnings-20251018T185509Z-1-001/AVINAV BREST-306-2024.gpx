@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 306/24</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Danger, autres
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/8126cfbe-5c07-4b6e-88f5-a08c87d6fcbc"/>
+    <bounds minlat="45.64101499999999" minlon="-1.6636683333333262" maxlat="45.64101499999999" maxlon="-1.6636683333333262"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 306/24 #1/1</name>
+    <desc>Danger, autres</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/8126cfbe-5c07-4b6e-88f5-a08c87d6fcbc"/>
+    <trkseg>
+      <trkpt lat="45.64101499999999" lon="-1.6636683333333262"/>
+    </trkseg>
+  </trk>
+</gpx>

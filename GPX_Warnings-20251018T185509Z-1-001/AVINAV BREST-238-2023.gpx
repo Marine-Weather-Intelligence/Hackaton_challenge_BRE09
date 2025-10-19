@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 238/23</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/e94db435-89bb-45a0-b0f5-d7a492f63467"/>
+    <bounds minlat="45.601566666666635" minlon="-1.068349999999966" maxlat="45.601566666666635" maxlon="-1.068349999999966"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 238/23 #1/1</name>
+    <desc>Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/e94db435-89bb-45a0-b0f5-d7a492f63467"/>
+    <trkseg>
+      <trkpt lat="45.601566666666635" lon="-1.068349999999966"/>
+    </trkseg>
+  </trk>
+</gpx>

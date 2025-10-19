@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 329/23</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/f949a9b6-bae2-480f-867f-2bdb5752dc2f"/>
+    <bounds minlat="47.41666666666667" minlon="-2.449999999999998" maxlat="47.41666666666667" maxlon="-2.449999999999998"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 329/23 #1/1</name>
+    <desc>Dangers nouvellement découverts</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/f949a9b6-bae2-480f-867f-2bdb5752dc2f"/>
+    <trkseg>
+      <trkpt lat="47.41666666666667" lon="-2.449999999999998"/>
+    </trkseg>
+  </trk>
+</gpx>

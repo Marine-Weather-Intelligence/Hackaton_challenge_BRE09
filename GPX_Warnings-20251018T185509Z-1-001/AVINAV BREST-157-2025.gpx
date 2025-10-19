@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 157/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/7e83faf2-25d0-4b9a-8f73-282c89bd9b72"/>
+    <bounds minlat="48.14333333333333" minlon="-4.499166666666636" maxlat="48.18966666666663" maxlon="-4.359166666666712"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 157/25 #1/1</name>
+    <desc>Opérations spéciales</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/7e83faf2-25d0-4b9a-8f73-282c89bd9b72"/>
+    <trkseg>
+      <trkpt lat="48.15916666666663" lon="-4.396666666666642"/>
+      <trkpt lat="48.15916666666663" lon="-4.3633333333332995"/>
+      <trkpt lat="48.14333333333333" lon="-4.3633333333332995"/>
+      <trkpt lat="48.14333333333333" lon="-4.396666666666642"/>
+      <trkpt lat="48.15916666666663" lon="-4.396666666666642"/>
+      <trkpt lat="48.15916666666663" lon="-4.396666666666642"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 157/25 #1/1</name>
+    <desc>Opérations spéciales</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/7e83faf2-25d0-4b9a-8f73-282c89bd9b72"/>
+    <trkseg>
+      <trkpt lat="48.18966666666663" lon="-4.465000000000032"/>
+      <trkpt lat="48.18966666666663" lon="-4.455166666666673"/>
+      <trkpt lat="48.18533333333337" lon="-4.455166666666673"/>
+      <trkpt lat="48.18533333333337" lon="-4.465000000000032"/>
+      <trkpt lat="48.18966666666663" lon="-4.465000000000032"/>
+      <trkpt lat="48.18966666666663" lon="-4.465000000000032"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 157/25 #1/1</name>
+    <desc>Opérations spéciales</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/7e83faf2-25d0-4b9a-8f73-282c89bd9b72"/>
+    <trkseg>
+      <trkpt lat="48.14749999999997" lon="-4.370000000000041"/>
+      <trkpt lat="48.15199999999998" lon="-4.370000000000041"/>
+      <trkpt lat="48.15199833333332" lon="-4.35925000000002"/>
+      <trkpt lat="48.14749999999997" lon="-4.359166666666712"/>
+      <trkpt lat="48.14749999999997" lon="-4.370000000000041"/>
+      <trkpt lat="48.14749999999997" lon="-4.370000000000041"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 157/25 #1/1</name>
+    <desc>Opérations spéciales</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/7e83faf2-25d0-4b9a-8f73-282c89bd9b72"/>
+    <trkseg>
+      <trkpt lat="48.17416666666668" lon="-4.499166666666636"/>
+      <trkpt lat="48.17416666666668" lon="-4.489666666666691"/>
+      <trkpt lat="48.171166666666686" lon="-4.489666666666691"/>
+      <trkpt lat="48.171166666666686" lon="-4.499166666666636"/>
+      <trkpt lat="48.17416666666668" lon="-4.499166666666636"/>
+      <trkpt lat="48.17416666666668" lon="-4.499166666666636"/>
+    </trkseg>
+  </trk>
+</gpx>

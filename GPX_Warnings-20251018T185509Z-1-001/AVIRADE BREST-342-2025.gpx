@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVIRADE BREST 342/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/4f23f8ec-6a45-423e-87e3-1e4440f7efb5"/>
+    <bounds minlat="48.299609437879724" minlon="-4.486980926583805" maxlat="48.299609437879724" maxlon="-4.486980926583805"/>
+  </metadata>
+  <trk>
+    <name>AVIRADE BREST 342/25 #1/1</name>
+    <desc>Essais en mer
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/4f23f8ec-6a45-423e-87e3-1e4440f7efb5"/>
+    <trkseg>
+      <trkpt lat="48.299609437879724" lon="-4.486980926583805"/>
+    </trkseg>
+  </trk>
+</gpx>

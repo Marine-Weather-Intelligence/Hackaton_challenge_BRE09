@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3167/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/04ee17f4-0e88-4180-bf85-92f70db2b168"/>
+    <bounds minlat="46.87144956498686" minlon="-2.5027772485986275" maxlat="46.87162942899726" maxlon="-2.5025141496544996"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3167/25 #1/1</name>
+    <desc>Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/04ee17f4-0e88-4180-bf85-92f70db2b168"/>
+    <trkseg>
+      <trkpt lat="46.871540888888894" lon="-2.5026473055555556"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3167/25 #1/1</name>
+    <desc>Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/04ee17f4-0e88-4180-bf85-92f70db2b168"/>
+    <trkseg>
+      <trkpt lat="46.8715394970674" lon="-2.5025141496544996"/>
+      <trkpt lat="46.871548311944665" lon="-2.502514783101163"/>
+      <trkpt lat="46.8715570419284" lon="-2.502516677340718"/>
+      <trkpt lat="46.871565602944166" lon="-2.502519814130601"/>
+      <trkpt lat="46.871573912544804" lon="-2.502524163261811"/>
+      <trkpt lat="46.87158189070445" lon="-2.5025296828498362"/>
+      <trkpt lat="46.87158946058924" lon="-2.5025363197380277"/>
+      <trkpt lat="46.871596549297216" lon="-2.5025440100095238"/>
+      <trkpt lat="46.87160308856046" lon="-2.5025526796028053"/>
+      <trkpt lat="46.871609015402505" lon="-2.5025622450249507"/>
+      <trkpt lat="46.871614272744814" lon="-2.502572614155715"/>
+      <trkpt lat="46.87161880995654" lon="-2.5025836871347007"/>
+      <trkpt lat="46.871622583342024" lon="-2.502595357323068"/>
+      <trkpt lat="46.87162555656166" lon="-2.5026075123305223"/>
+      <trkpt lat="46.87162770098187" lon="-2.502620035097697"/>
+      <trkpt lat="46.8716289959508" lon="-2.5026328050234996"/>
+      <trkpt lat="46.87162942899726" lon="-2.5026456991265635"/>
+      <trkpt lat="46.8716289959508" lon="-2.502658593229627"/>
+      <trkpt lat="46.87162770098187" lon="-2.5026713631554296"/>
+      <trkpt lat="46.87162555656166" lon="-2.502683885922605"/>
+      <trkpt lat="46.871622583342024" lon="-2.5026960409300587"/>
+      <trkpt lat="46.87161880995654" lon="-2.502707711118426"/>
+      <trkpt lat="46.871614272744814" lon="-2.502718784097412"/>
+      <trkpt lat="46.871609015402505" lon="-2.502729153228176"/>
+      <trkpt lat="46.87160308856046" lon="-2.5027387186503214"/>
+      <trkpt lat="46.871596549297216" lon="-2.5027473882436033"/>
+      <trkpt lat="46.87158946058924" lon="-2.5027550785150994"/>
+      <trkpt lat="46.87158189070445" lon="-2.5027617154032904"/>
+      <trkpt lat="46.871573912544804" lon="-2.502767234991316"/>
+      <trkpt lat="46.871565602944166" lon="-2.502771584122526"/>
+      <trkpt lat="46.8715570419284" lon="-2.5027747209124085"/>
+      <trkpt lat="46.871548311944665" lon="-2.5027766151519635"/>
+      <trkpt lat="46.8715394970674" lon="-2.5027772485986275"/>
+      <trkpt lat="46.87153068218871" lon="-2.5027766151519635"/>
+      <trkpt lat="46.87152195220068" lon="-2.5027747209124085"/>
+      <trkpt lat="46.871513391177956" lon="-2.502771584122526"/>
+      <trkpt lat="46.87150508156794" lon="-2.502767234991316"/>
+      <trkpt lat="46.87149710339687" lon="-2.5027617154032904"/>
+      <trkpt lat="46.87148953349906" lon="-2.5027550785150994"/>
+      <trkpt lat="46.87148244477695" lon="-2.5027473882436033"/>
+      <trkpt lat="46.87147590549901" lon="-2.5027387186503214"/>
+      <trkpt lat="46.87146997864227" lon="-2.502729153228176"/>
+      <trkpt lat="46.87146472128582" lon="-2.502718784097412"/>
+      <trkpt lat="46.871460184061064" lon="-2.502707711118426"/>
+      <trkpt lat="46.87145641066417" lon="-2.5026960409300587"/>
+      <trkpt lat="46.871453437435164" lon="-2.502683885922605"/>
+      <trkpt lat="46.871451293007986" lon="-2.5026713631554296"/>
+      <trkpt lat="46.87144999803477" lon="-2.502658593229627"/>
+      <trkpt lat="46.87144956498686" lon="-2.5026456991265635"/>
+      <trkpt lat="46.87144999803477" lon="-2.5026328050234996"/>
+      <trkpt lat="46.871451293007986" lon="-2.502620035097697"/>
+      <trkpt lat="46.871453437435164" lon="-2.5026075123305223"/>
+      <trkpt lat="46.87145641066417" lon="-2.502595357323068"/>
+      <trkpt lat="46.871460184061064" lon="-2.5025836871347007"/>
+      <trkpt lat="46.87146472128582" lon="-2.502572614155715"/>
+      <trkpt lat="46.87146997864227" lon="-2.5025622450249507"/>
+      <trkpt lat="46.87147590549901" lon="-2.5025526796028053"/>
+      <trkpt lat="46.87148244477695" lon="-2.5025440100095238"/>
+      <trkpt lat="46.87148953349906" lon="-2.5025363197380277"/>
+      <trkpt lat="46.87149710339687" lon="-2.5025296828498362"/>
+      <trkpt lat="46.87150508156794" lon="-2.502524163261811"/>
+      <trkpt lat="46.871513391177956" lon="-2.502519814130601"/>
+      <trkpt lat="46.87152195220068" lon="-2.502516677340718"/>
+      <trkpt lat="46.87153068218871" lon="-2.502514783101163"/>
+      <trkpt lat="46.8715394970674" lon="-2.5025141496544996"/>
+      <trkpt lat="46.8715394970674" lon="-2.5025141496544996"/>
+    </trkseg>
+  </trk>
+</gpx>

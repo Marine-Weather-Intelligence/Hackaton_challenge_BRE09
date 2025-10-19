@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 220/23</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Danger, autres
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/3c46ba57-db0d-42a3-b338-00dba0fe9d5b"/>
+    <bounds minlat="44.38333333333329" minlon="-1.766666666666637" maxlat="44.38333333333329" maxlon="-1.766666666666637"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 220/23 #1/1</name>
+    <desc>Engin explosif
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/3c46ba57-db0d-42a3-b338-00dba0fe9d5b"/>
+    <trkseg>
+      <trkpt lat="44.38333333333329" lon="-1.766666666666637"/>
+    </trkseg>
+  </trk>
+</gpx>

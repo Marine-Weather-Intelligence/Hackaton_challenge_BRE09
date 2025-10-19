@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 150/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/207ac44a-b60f-4b6c-a8e3-55b936e368a3"/>
+    <bounds minlat="45.97440699999997" minlon="-2.104523219999996" maxlat="45.97440699999997" maxlon="-2.104523219999996"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 150/25 #1/1</name>
+    <desc>Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/207ac44a-b60f-4b6c-a8e3-55b936e368a3"/>
+    <trkseg>
+      <trkpt lat="45.97440699999997" lon="-2.104523219999996"/>
+    </trkseg>
+  </trk>
+</gpx>

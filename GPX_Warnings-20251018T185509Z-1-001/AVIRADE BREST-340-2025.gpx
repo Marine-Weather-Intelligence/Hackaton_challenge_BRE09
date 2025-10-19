@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVIRADE BREST 340/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/0fa97a22-c84d-4bb5-bf95-9920db172b20"/>
+    <bounds minlat="48.283740489764114" minlon="-4.410846428060909" maxlat="48.283740489764114" maxlon="-4.410846428060909"/>
+  </metadata>
+  <trk>
+    <name>AVIRADE BREST 340/25 #1/1</name>
+    <desc>Exercice de tir
+ du 160630 UTC oct 25 au 160700 UTC oct 25
+ du 210630 UTC oct 25 au 210700 UTC oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/0fa97a22-c84d-4bb5-bf95-9920db172b20"/>
+    <trkseg>
+      <trkpt lat="48.283740489764114" lon="-4.410846428060909"/>
+    </trkseg>
+  </trk>
+</gpx>

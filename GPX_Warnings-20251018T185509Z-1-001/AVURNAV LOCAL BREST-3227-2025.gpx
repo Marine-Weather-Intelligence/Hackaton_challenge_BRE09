@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3227/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/2b230beb-9a5f-4565-b8df-3d0a2d29f31d"/>
+    <bounds minlat="44.15" minlon="-1.8500000000000003" maxlat="44.666666666666636" maxlon="-1.25"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3227/25 #1/1</name>
+    <desc>Exercice de tir
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/2b230beb-9a5f-4565-b8df-3d0a2d29f31d"/>
+    <trkseg>
+      <trkpt lat="44.26666499999995" lon="-1.3333333333332904"/>
+      <trkpt lat="44.26661513010533" lon="-1.290239906442949"/>
+      <trkpt lat="44.233674988281635" lon="-1.2954263546079174"/>
+      <trkpt lat="44.23333333333331" lon="-1.3333333333332904"/>
+      <trkpt lat="44.26666499999995" lon="-1.3333333333332904"/>
+      <trkpt lat="44.26666499999995" lon="-1.3333333333332904"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3227/25 #1/1</name>
+    <desc>Exercice de tir
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/2b230beb-9a5f-4565-b8df-3d0a2d29f31d"/>
+    <trkseg>
+      <trkpt lat="44.466666666666676" lon="-1.3666666666666316"/>
+      <trkpt lat="44.46737956726407" lon="-1.2644536956084895"/>
+      <trkpt lat="44.33205943473906" lon="-1.2769832043922675"/>
+      <trkpt lat="44.33333333333336" lon="-1.3666666666666316"/>
+      <trkpt lat="44.466666666666676" lon="-1.3666666666666316"/>
+      <trkpt lat="44.466666666666676" lon="-1.3666666666666316"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3227/25 #1/1</name>
+    <desc>Exercice de tir
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/2b230beb-9a5f-4565-b8df-3d0a2d29f31d"/>
+    <trkseg>
+      <trkpt lat="44.666666666666636" lon="-1.616666666666667"/>
+      <trkpt lat="44.266666666666644" lon="-1.8500000000000003"/>
+      <trkpt lat="44.183333333333316" lon="-1.6666666666666667"/>
+      <trkpt lat="44.15" lon="-1.3000000000000003"/>
+      <trkpt lat="44.48333333333334" lon="-1.25"/>
+      <trkpt lat="44.666666666666636" lon="-1.616666666666667"/>
+      <trkpt lat="44.666666666666636" lon="-1.616666666666667"/>
+    </trkseg>
+  </trk>
+</gpx>

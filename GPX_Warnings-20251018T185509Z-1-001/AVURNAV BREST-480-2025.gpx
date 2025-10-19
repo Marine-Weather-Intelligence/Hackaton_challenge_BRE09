@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV BREST 480/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/a9c3feb5-3921-44a0-be4e-bf747b5ae145"/>
+    <bounds minlat="47.13499999999998" minlon="-5.999999999999988" maxlat="47.805" maxlon="-5.000000000000019"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV BREST 480/25 #1/1</name>
+    <desc>Exercice de tir
+ du 191100 UTC oct 25 au 191300 UTC oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/a9c3feb5-3921-44a0-be4e-bf747b5ae145"/>
+    <trkseg>
+      <trkpt lat="47.773333333333305" lon="-5.000000000000019"/>
+      <trkpt lat="47.805" lon="-5.635000000000031"/>
+      <trkpt lat="47.78543448258082" lon="-5.7235858489360725"/>
+      <trkpt lat="47.7448186623424" lon="-5.823836093076736"/>
+      <trkpt lat="47.681997691003204" lon="-5.919110586234234"/>
+      <trkpt lat="47.62141692421364" lon="-5.973524813779875"/>
+      <trkpt lat="47.57666666666663" lon="-5.999999999999988"/>
+      <trkpt lat="47.13499999999998" lon="-5.999999999999988"/>
+      <trkpt lat="47.159999999999975" lon="-5.073333333333353"/>
+      <trkpt lat="47.28000000000003" lon="-5.001666666666637"/>
+      <trkpt lat="47.773333333333305" lon="-5.000000000000019"/>
+      <trkpt lat="47.773333333333305" lon="-5.000000000000019"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 94/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/f488d349-2c91-42b4-8544-42599d43ac12"/>
+    <bounds minlat="48.772666666666666" minlon="-1.7739166666666262" maxlat="48.772666666666666" maxlon="-1.7739166666666262"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 94/25 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/f488d349-2c91-42b4-8544-42599d43ac12"/>
+    <trkseg>
+      <trkpt lat="48.772666666666666" lon="-1.7739166666666262"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVIRADE BREST 272/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/e5f8c9c9-066f-4208-85f7-c61cdedbcd9d"/>
+    <bounds minlat="48.29814007202579" minlon="-4.4147508018531605" maxlat="48.30560805115927" maxlon="-4.396412584403792"/>
+  </metadata>
+  <trk>
+    <name>AVIRADE BREST 272/25 #1/1</name>
+    <desc>Exercice militaire
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/e5f8c9c9-066f-4208-85f7-c61cdedbcd9d"/>
+    <trkseg>
+      <trkpt lat="48.30560805115927" lon="-4.413878618340389"/>
+      <trkpt lat="48.3047898995685" lon="-4.396412584403792"/>
+      <trkpt lat="48.29814007202579" lon="-4.39724004055701"/>
+      <trkpt lat="48.298973207505746" lon="-4.4147508018531605"/>
+      <trkpt lat="48.30560805115927" lon="-4.413878618340389"/>
+      <trkpt lat="48.30560805115927" lon="-4.413878618340389"/>
+    </trkseg>
+  </trk>
+</gpx>

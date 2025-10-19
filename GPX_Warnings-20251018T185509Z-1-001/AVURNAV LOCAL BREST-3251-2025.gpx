@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3251/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Danger, autres
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/fc40fd94-6b43-4e65-9b0e-3b27b28dbc74"/>
+    <bounds minlat="44.29999999999998" minlon="-1.3666666666666316" maxlat="44.34999999999995" maxlon="-1.3000000000000391"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3251/25 #1/1</name>
+    <desc>Engin explosif
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/fc40fd94-6b43-4e65-9b0e-3b27b28dbc74"/>
+    <trkseg>
+      <trkpt lat="44.34999999999995" lon="-1.3666666666666316"/>
+      <trkpt lat="44.34999999999995" lon="-1.3000000000000391"/>
+      <trkpt lat="44.29999999999998" lon="-1.3000000000000391"/>
+      <trkpt lat="44.29999999999998" lon="-1.3666666666666316"/>
+      <trkpt lat="44.34999999999995" lon="-1.3666666666666316"/>
+      <trkpt lat="44.34999999999995" lon="-1.3666666666666316"/>
+    </trkseg>
+  </trk>
+</gpx>

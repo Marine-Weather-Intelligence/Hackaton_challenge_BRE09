@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 119/21</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/abd65fa5-5c23-49eb-a114-b54b92fe5f94"/>
+    <bounds minlat="45.80671666666664" minlon="-1.2649999999999906" maxlat="46.17733333333329" maxlon="-1.1679333333333575"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 119/21 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/abd65fa5-5c23-49eb-a114-b54b92fe5f94"/>
+    <trkseg>
+      <trkpt lat="46.134999999999955" lon="-1.1883333333333324"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 119/21 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/abd65fa5-5c23-49eb-a114-b54b92fe5f94"/>
+    <trkseg>
+      <trkpt lat="45.905533333333345" lon="-1.1679333333333575"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 119/21 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/abd65fa5-5c23-49eb-a114-b54b92fe5f94"/>
+    <trkseg>
+      <trkpt lat="45.80671666666664" lon="-1.2224000000000215"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 119/21 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/abd65fa5-5c23-49eb-a114-b54b92fe5f94"/>
+    <trkseg>
+      <trkpt lat="46.17733333333329" lon="-1.2223333333333208"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 119/21 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/abd65fa5-5c23-49eb-a114-b54b92fe5f94"/>
+    <trkseg>
+      <trkpt lat="46.17" lon="-1.2616666666666654"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 119/21 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/abd65fa5-5c23-49eb-a114-b54b92fe5f94"/>
+    <trkseg>
+      <trkpt lat="46.003833333333304" lon="-1.2182833333333458"/>
+      <trkpt lat="46.03386666666665" lon="-1.2649999999999906"/>
+    </trkseg>
+  </trk>
+</gpx>

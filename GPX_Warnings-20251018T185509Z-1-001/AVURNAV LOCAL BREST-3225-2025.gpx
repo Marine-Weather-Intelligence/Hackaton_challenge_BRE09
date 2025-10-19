@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3225/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Danger, autres
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/66e12beb-8f53-40c5-86c1-7a74ee381f77"/>
+    <bounds minlat="46.92920894021117" minlon="-2.1192799128663027" maxlat="46.92920894021117" maxlon="-2.1192799128663027"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3225/25 #1/1</name>
+    <desc>Zone dangereuse
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/66e12beb-8f53-40c5-86c1-7a74ee381f77"/>
+    <trkseg>
+      <trkpt lat="46.92920894021117" lon="-2.1192799128663027"/>
+    </trkseg>
+  </trk>
+</gpx>

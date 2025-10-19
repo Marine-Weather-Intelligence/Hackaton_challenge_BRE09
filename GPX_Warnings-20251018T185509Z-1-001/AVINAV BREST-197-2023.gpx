@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 197/23</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Danger, autres
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/f9304d94-fb27-4051-b793-ab9e8e2bb6a2"/>
+    <bounds minlat="46.31711644274859" minlon="-1.0845439666580394" maxlat="46.31711644274859" maxlon="-1.0845439666580394"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 197/23 #1/1</name>
+    <desc>Zone dangereuse
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/f9304d94-fb27-4051-b793-ab9e8e2bb6a2"/>
+    <trkseg>
+      <trkpt lat="46.31711644274859" lon="-1.0845439666580394"/>
+    </trkseg>
+  </trk>
+</gpx>

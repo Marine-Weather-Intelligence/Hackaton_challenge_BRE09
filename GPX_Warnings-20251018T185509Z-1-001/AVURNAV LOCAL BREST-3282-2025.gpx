@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3282/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/bc056eac-1572-4466-aa8b-571416e1d9da"/>
+    <bounds minlat="47.50221666666663" minlon="-3.2933333333333246" maxlat="47.663333333333334" maxlon="-3.0416666666666927"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3282/25 #1/1</name>
+    <desc>Exercice de tir
+ du 210630 UTC oct 25 au 211430 UTC oct 25
+ du 220630 UTC oct 25 au 222000 UTC oct 25
+ du 230630 UTC oct 25 au 231430 UTC oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/bc056eac-1572-4466-aa8b-571416e1d9da"/>
+    <trkseg>
+      <trkpt lat="47.663333333333334" lon="-3.142166666666657"/>
+      <trkpt lat="47.64999999999997" lon="-3.0444333333333766"/>
+      <trkpt lat="47.60383333333332" lon="-3.0416666666666927"/>
+      <trkpt lat="47.576099999999975" lon="-3.116666666666643"/>
+      <trkpt lat="47.56333333333334" lon="-3.1355500000000096"/>
+      <trkpt lat="47.544166666666634" lon="-3.1355500000000096"/>
+      <trkpt lat="47.53349999999999" lon="-3.1461000000000183"/>
+      <trkpt lat="47.53026666666667" lon="-3.161100000000026"/>
+      <trkpt lat="47.50221666666663" lon="-3.1936000000000138"/>
+      <trkpt lat="47.581933333333346" lon="-3.2933333333333246"/>
+      <trkpt lat="47.62333333333334" lon="-3.198883333333367"/>
+      <trkpt lat="47.663333333333334" lon="-3.142166666666657"/>
+      <trkpt lat="47.663333333333334" lon="-3.142166666666657"/>
+    </trkseg>
+  </trk>
+</gpx>

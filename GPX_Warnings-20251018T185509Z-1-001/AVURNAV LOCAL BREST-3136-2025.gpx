@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3136/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/b96c1bc7-87a0-47f0-9d88-e3bd9cc00200"/>
+    <bounds minlat="44.57433333333331" minlon="-1.2416666666666667" maxlat="44.57433333333331" maxlon="-1.2416666666666667"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3136/25 #1/1</name>
+    <desc>Epave dangereuse
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/b96c1bc7-87a0-47f0-9d88-e3bd9cc00200"/>
+    <trkseg>
+      <trkpt lat="44.57433333333331" lon="-1.2416666666666667"/>
+    </trkseg>
+  </trk>
+</gpx>

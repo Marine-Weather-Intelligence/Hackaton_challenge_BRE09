@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 82/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/b762bdb5-c5cd-4e3b-a06b-9c8d703bcd2a"/>
+    <bounds minlat="48.27566666666664" minlon="-4.683333333333322" maxlat="48.296049589575226" maxlon="-4.63034712082267"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 82/25 #1/1</name>
+    <desc>Exercice militaire
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/b762bdb5-c5cd-4e3b-a06b-9c8d703bcd2a"/>
+    <trkseg>
+      <trkpt lat="48.28566666666667" lon="-4.683333333333322"/>
+      <trkpt lat="48.295999999999985" lon="-4.63502333333335"/>
+      <trkpt lat="48.28550052556268" lon="-4.63034712082267"/>
+      <trkpt lat="48.27566666666664" lon="-4.679000000000026"/>
+      <trkpt lat="48.28566666666667" lon="-4.683333333333322"/>
+      <trkpt lat="48.28566666666667" lon="-4.683333333333322"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 82/25 #1/1</name>
+    <desc>Exercice militaire
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/b762bdb5-c5cd-4e3b-a06b-9c8d703bcd2a"/>
+    <trkseg>
+      <trkpt lat="48.285626165014015" lon="-4.683282795512229"/>
+      <trkpt lat="48.296049589575226" lon="-4.634971220550057"/>
+      <trkpt lat="48.285438898412316" lon="-4.630374585262439"/>
+      <trkpt lat="48.275762523128925" lon="-4.678967586874847"/>
+      <trkpt lat="48.285626165014015" lon="-4.683282795512229"/>
+      <trkpt lat="48.285626165014015" lon="-4.683282795512229"/>
+    </trkseg>
+  </trk>
+</gpx>

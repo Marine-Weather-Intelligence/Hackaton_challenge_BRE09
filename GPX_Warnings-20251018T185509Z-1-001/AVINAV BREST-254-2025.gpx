@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 254/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/10eee523-a2b0-4a3c-b973-44d8a1b3f88e"/>
+    <bounds minlat="48.775450000000006" minlon="-2.8434999999999695" maxlat="48.79344999999996" maxlon="-2.835666666666642"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 254/25 #1/1</name>
+    <desc>Faible profondeur signalée
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/10eee523-a2b0-4a3c-b973-44d8a1b3f88e"/>
+    <trkseg>
+      <trkpt lat="48.79344999999996" lon="-2.835666666666642"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVINAV BREST 254/25 #1/1</name>
+    <desc>Faible profondeur signalée
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/10eee523-a2b0-4a3c-b973-44d8a1b3f88e"/>
+    <trkseg>
+      <trkpt lat="48.775450000000006" lon="-2.8434999999999695"/>
+    </trkseg>
+  </trk>
+</gpx>

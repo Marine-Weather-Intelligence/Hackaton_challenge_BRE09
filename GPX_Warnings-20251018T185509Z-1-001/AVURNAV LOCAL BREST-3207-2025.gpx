@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3207/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/88609e31-37f0-4468-83ae-fcff8892a0ea"/>
+    <bounds minlat="45.61666666666665" minlon="-1.900000000000002" maxlat="45.84999999999997" maxlon="-1.399999999999973"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3207/25 #1/1</name>
+    <desc>Levé scientifique
+ du 06 oct 25 au 10 oct 25
+ du 04 nov 25 au 07 nov 25
+ du 01 déc 25 au 03 déc 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/88609e31-37f0-4468-83ae-fcff8892a0ea"/>
+    <trkseg>
+      <trkpt lat="45.84999999999997" lon="-1.6450000000000446"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3207/25 #1/1</name>
+    <desc>Levé scientifique
+ du 06 oct 25 au 10 oct 25
+ du 04 nov 25 au 07 nov 25
+ du 01 déc 25 au 03 déc 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/88609e31-37f0-4468-83ae-fcff8892a0ea"/>
+    <trkseg>
+      <trkpt lat="45.71166666666671" lon="-1.399999999999973"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3207/25 #1/1</name>
+    <desc>Levé scientifique
+ du 06 oct 25 au 10 oct 25
+ du 04 nov 25 au 07 nov 25
+ du 01 déc 25 au 03 déc 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/88609e31-37f0-4468-83ae-fcff8892a0ea"/>
+    <trkseg>
+      <trkpt lat="45.699999999999946" lon="-1.6499999999999877"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3207/25 #1/1</name>
+    <desc>Levé scientifique
+ du 06 oct 25 au 10 oct 25
+ du 04 nov 25 au 07 nov 25
+ du 01 déc 25 au 03 déc 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/88609e31-37f0-4468-83ae-fcff8892a0ea"/>
+    <trkseg>
+      <trkpt lat="45.61666666666665" lon="-1.900000000000002"/>
+    </trkseg>
+  </trk>
+</gpx>

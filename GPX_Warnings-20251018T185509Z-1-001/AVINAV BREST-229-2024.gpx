@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 229/24</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/a6714860-f495-456b-b4d5-9e3ac45692f3"/>
+    <bounds minlat="44.67784444444443" minlon="-1.1479997222222464" maxlat="44.680461111111086" maxlon="-1.1469305555555482"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 229/24 #1/1</name>
+    <desc>Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/a6714860-f495-456b-b4d5-9e3ac45692f3"/>
+    <trkseg>
+      <trkpt lat="44.67806916666662" lon="-1.1469305555555482"/>
+      <trkpt lat="44.67784444444443" lon="-1.1479997222222464"/>
+      <trkpt lat="44.68042749999999" lon="-1.1477997222222345"/>
+      <trkpt lat="44.680461111111086" lon="-1.1471166666666606"/>
+      <trkpt lat="44.67806916666662" lon="-1.1469305555555482"/>
+      <trkpt lat="44.67806916666662" lon="-1.1469305555555482"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>NAVAREA II 282/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>NAVAREA II</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/32b6bb73-55ba-4809-9353-0b736e9881bb"/>
+    <bounds minlat="-6.213331666666663" minlon="-0.5250000000000123" maxlat="2.983328333333336" maxlon="7.158331666666668"/>
+  </metadata>
+  <trk>
+    <name>NAVAREA II 282/25 #1/1</name>
+    <desc>Opération de levé sismique
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/32b6bb73-55ba-4809-9353-0b736e9881bb"/>
+    <trkseg>
+      <trkpt lat="2.8416666666666766" lon="-0.5250000000000123"/>
+      <trkpt lat="2.983328333333336" lon="7.158331666666668"/>
+      <trkpt lat="-6.213331666666663" lon="6.299998333333334"/>
+      <trkpt lat="-4.083333333333338" lon="1.191665"/>
+      <trkpt lat="2.8416666666666766" lon="-0.5250000000000123"/>
+      <trkpt lat="2.8416666666666766" lon="-0.5250000000000123"/>
+    </trkseg>
+  </trk>
+</gpx>

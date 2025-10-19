@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3206/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/89a77429-0dfb-4e83-8ba0-f3894e887434"/>
+    <bounds minlat="47.48266666666665" minlon="-3.0940000000000007" maxlat="47.48649999999999" maxlon="-3.0898333333333334"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3206/25 #1/1</name>
+    <desc>Essais en mer
+ du 06 oct 25 au 17 nov 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/89a77429-0dfb-4e83-8ba0-f3894e887434"/>
+    <trkseg>
+      <trkpt lat="47.48266666666665" lon="-3.0925000000000002"/>
+      <trkpt lat="47.48433333333331" lon="-3.0940000000000007"/>
+      <trkpt lat="47.48649999999999" lon="-3.0928333333333335"/>
+      <trkpt lat="47.483833333333344" lon="-3.0898333333333334"/>
+      <trkpt lat="47.48266666666665" lon="-3.0925000000000002"/>
+      <trkpt lat="47.48266666666665" lon="-3.0925000000000002"/>
+    </trkseg>
+  </trk>
+</gpx>

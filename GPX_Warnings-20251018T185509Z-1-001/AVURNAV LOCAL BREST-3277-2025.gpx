@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3277/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers à la dérive
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/7c741788-0a17-4db5-8515-207b23c485de"/>
+    <bounds minlat="43.65" minlon="-1.45" maxlat="43.65" maxlon="-1.45"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3277/25 #1/1</name>
+    <desc>Filet de pêche à la dérive
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/7c741788-0a17-4db5-8515-207b23c485de"/>
+    <trkseg>
+      <trkpt lat="43.65" lon="-1.45"/>
+    </trkseg>
+  </trk>
+</gpx>

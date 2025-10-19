@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 265/23</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Danger, autres
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/c476f020-7c84-4d29-b83d-10a4c98a3a64"/>
+    <bounds minlat="46.143216666666625" minlon="-1.2278333333332938" maxlat="46.143216666666625" maxlon="-1.2278333333332938"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 265/23 #1/1</name>
+    <desc>Zone dangereuse
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/c476f020-7c84-4d29-b83d-10a4c98a3a64"/>
+    <trkseg>
+      <trkpt lat="46.143216666666625" lon="-1.2278333333332938"/>
+    </trkseg>
+  </trk>
+</gpx>

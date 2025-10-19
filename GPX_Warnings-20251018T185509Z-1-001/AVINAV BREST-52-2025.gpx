@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 52/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/c7f8e7f1-f6b4-4659-ae24-592cd7764884"/>
+    <bounds minlat="47.126666666666665" minlon="-2.4233333333333067" maxlat="47.126666666666665" maxlon="-2.4233333333333067"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 52/25 #1/1</name>
+    <desc>Mouillage immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/c7f8e7f1-f6b4-4659-ae24-592cd7764884"/>
+    <trkseg>
+      <trkpt lat="47.126666666666665" lon="-2.4233333333333067"/>
+    </trkseg>
+  </trk>
+</gpx>

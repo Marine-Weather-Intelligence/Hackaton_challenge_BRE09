@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVINAV BREST 298/24</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Danger, autres
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/b92ad9b0-0c79-42a8-b116-dc28ca064677"/>
+    <bounds minlat="44.34301" minlon="-1.570348333333311" maxlat="44.34301" maxlon="-1.570348333333311"/>
+  </metadata>
+  <trk>
+    <name>AVINAV BREST 298/24 #1/1</name>
+    <desc>Engin explosif
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/b92ad9b0-0c79-42a8-b116-dc28ca064677"/>
+    <trkseg>
+      <trkpt lat="44.34301" lon="-1.570348333333311"/>
+    </trkseg>
+  </trk>
+</gpx>

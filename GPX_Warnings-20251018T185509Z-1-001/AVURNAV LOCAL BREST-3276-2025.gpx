@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3276/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Opérations spéciales
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/43c3f84c-8e79-4a9a-b4fd-d2063e31d820"/>
+    <bounds minlat="48.31666666666667" minlon="-4.683333333333322" maxlat="48.34449999999999" maxlon="-4.61666666666664"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3276/25 #1/1</name>
+    <desc>Exercice de tir
+ du 200600 UTC oct 25 au 201600 UTC oct 25
+ du 210600 UTC oct 25 au 211600 UTC oct 25
+ du 220600 UTC oct 25 au 221600 UTC oct 25
+ du 230600 UTC oct 25 au 231600 UTC oct 25
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/43c3f84c-8e79-4a9a-b4fd-d2063e31d820"/>
+    <trkseg>
+      <trkpt lat="48.34449999999999" lon="-4.683333333333322"/>
+      <trkpt lat="48.34449999999999" lon="-4.61666666666664"/>
+      <trkpt lat="48.33333333333332" lon="-4.61666666666664"/>
+      <trkpt lat="48.31666666666667" lon="-4.666666666666696"/>
+      <trkpt lat="48.31666666666667" lon="-4.683333333333322"/>
+      <trkpt lat="48.34449999999999" lon="-4.683333333333322"/>
+      <trkpt lat="48.34449999999999" lon="-4.683333333333322"/>
+    </trkseg>
+  </trk>
+</gpx>

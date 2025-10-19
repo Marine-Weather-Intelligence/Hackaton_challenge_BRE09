@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JPX - https://github.com/jenetics/jpx">
+  <metadata>
+    <name>AVURNAV LOCAL BREST 3174/25</name>
+    <desc>Mise en garde : ces données GPX générées depuis PING sont partielles et seulement destinées à faciliter l'intégration de la position de l'avertissement de navigation ou de l'avis aux navigateurs dans une carte numérique. L'intégralité des informations est disponible sur le portail PING.
+Dangers nouvellement découverts
+</desc>
+    <author>
+      <name>CECLANT INFONAUT</name>
+    </author>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/f22742e7-a757-444e-b9fe-41bcff7fd884"/>
+    <bounds minlat="47.04133333333334" minlon="-2.3550000000000004" maxlat="47.04133333333334" maxlon="-2.3550000000000004"/>
+  </metadata>
+  <trk>
+    <name>AVURNAV LOCAL BREST 3174/25 #1/1</name>
+    <desc>Présence d'un filet de pêche immergé - Objet immergé
+</desc>
+    <link href="https://portail.ping-info-nautique.fr/avurnav-notice/f22742e7-a757-444e-b9fe-41bcff7fd884"/>
+    <trkseg>
+      <trkpt lat="47.04133333333334" lon="-2.3550000000000004"/>
+    </trkseg>
+  </trk>
+</gpx>
